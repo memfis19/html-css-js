@@ -14,6 +14,7 @@
   background: grey;
   box-sizing: border-box;
   margin: 5px;
+  font-family: sans-serif;
 }
 
 .title {
@@ -25,6 +26,7 @@
   background-color: pink;
   color: black;
   padding: 0 5px 0 5px;
+  font-family: serif;
 }
 
 .beef {
@@ -32,6 +34,7 @@
   background-color: red;
   color: white;
   padding: 0 5px 0 5px;
+  font-family: sans-serif;
 }
 
 .sushi{
@@ -40,11 +43,13 @@
   background-color: yellow;
   color: black;
   padding: 0 5px 0 5px;
+  font-family: monospace;
 }
 
 h1 {
   text-align: center;
   margin: 50px;
+  font-family: fantasy;
 }
 
 @media (max-width: 767px) {
