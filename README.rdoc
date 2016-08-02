@@ -1,0 +1,3 @@
+== README
+
+This is the coursera test project just to refresh some html-css-js skills :).
